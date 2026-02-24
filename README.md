@@ -13,6 +13,6 @@
     <li>manzara</li>
     <li>yürüyüş</li>
 </ul>
-
+<a href="https://maps.app.goo.gl/q2DH3zk1evm9qE7d8" target="_blank">Caddebostan haritada aç</a>
 </body>
-</html>
+<html/>
